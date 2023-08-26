@@ -24,4 +24,5 @@ Jupyter Lab を使用する。
 ### 環境構築
 ```
 % pip install sympy
+% pip install matplotlib
 ```
